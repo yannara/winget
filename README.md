@@ -1,6 +1,8 @@
 # Winget
 Use Winget to install and update your apps for Windows. Winget is command line utility for app install, update and uninstall automation. 
 
+⚠️ **THIS FREE PRODUCT IS PROVIDED “AS IS”, WITHOUT ANY WARRANTIES, GUARANTEES, OR RIGHTS TO CLAIM OR COMPENSATION. PLEASE UNDERSTAND THAT FREE SOLUTIONS ARE NOT PERFECT.** ⚠️
+
 # Winget Install
 Use this script as Win32 app in Intune or Remediation Script to push any new installation of applications. You can use "Winget Search xXx" first from any Windows to find the desired app and valid ID for it. Then add the ID to the script and deploy it with Intune or SCCM. This solution is also OSD and Autopilot friendly. Multiple apps can be added to the same script. The example of add-on is in the script.
 For troubleshooting, use Event Viewer/Application node to monitor how the process is executed.
