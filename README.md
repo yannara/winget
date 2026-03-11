@@ -18,4 +18,7 @@ Use this script to publish Scheduled Task which will launch the Winget process e
 <img width="843" height="190" alt="image" src="https://github.com/user-attachments/assets/500bd61b-d76d-4e64-90d7-30d50048ddbe" />
 
 # Documentation
-Detailed instructions and more info will be published in Linkedin in few days.
+Article of this solution: https://www.linkedin.com/pulse/winget-2026-powered-ai-install-update-your-3rd-apps-pavel-htqtf/
+<br>
+<br>
+Technical Walkthrough of this solution: https://youtu.be/ZqktTU37S2w
